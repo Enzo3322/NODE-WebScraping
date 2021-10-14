@@ -1,0 +1,20 @@
+{
+	"name": "nodejs-web-automation",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node ../src/index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"keywords": [],
+	"author": "Enzo Spagnolli",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"cheerio": "^1.0.0-rc.10",
+		"fs": "0.0.1-security",
+		"jsonfile": "^6.1.0"
+	}
+}
